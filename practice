@@ -1,4 +1,6 @@
+package Permissions
 
+public static void main(String[] args)
  System.setProperty("webdriver.chrome.driver", "//D:\\Chrome driver\\chromedriver.exe");
 		
      
